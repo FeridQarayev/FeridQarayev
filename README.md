@@ -9,7 +9,7 @@
 
 - :e-mail: How to reach me **feridqarayev111@gmail.com**
 
-- <img width="25" src="./img/emoji-icon-flat-03-00-animals-nature-animal-mammal-doberman-72dpi-forPersonalUseOnly.png"> I love **my dog <3**
+- <img width="25" src="./img/emoji-icon-flat-03-00-animals-nature-animal-mammal-doberman-72dpi-forPersonalUseOnly.png"> I love **my dog :heart:**
 - <div>
       <img style="transform:translateY(20%)" width="30" height="30"  alt="Linguine" src="https://i.pinimg.com/originals/16/ed/00/16ed00c0e313d7acce0ef15654c44cb1.jpg"/>
        I look a lot like the <b>linguine</b> from the cartoon ratatouille
