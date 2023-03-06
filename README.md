@@ -63,14 +63,3 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FeridQarayev&show_icons=true&locale=en&layout=compact" alt="FeridQarayev" />
 </p>
-
-<!-- ---
-
-### 💻 Web projects
-
-- [Memory Game](https://dadamemorygame.netlify.app/)&nbsp;&nbsp; ( [github link](https://github.com/Suleyman1406/PatikaReduxWork3) )
-- [NotePad](https://dadanotepad.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReduxWork1) )
-
-- [Todo App](https://dadatodo.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReactWork2) )
-
-- [Calculate BMI App](https://dadacalculate.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaFrontEndProject2) ) -->
