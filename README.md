@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferid</h1>
-<h3 align="center">In short, no one!</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-<!-- - :computer: I’m currently working on **ABC-Telecom** -->
+- :computer: I’m currently working on **ABC-Telecom**
 
 - 👨‍💻 I’m currently learning **ReactJs,NodeJs**
 
