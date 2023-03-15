@@ -57,10 +57,11 @@
         <img style="border-radius:10px" src="https://adaptivedge.com/wp-content/uploads/2018/10/SQL-Server-Logo.jpg" alt="mssql" height="50" title="sql server"/> 
     </p>
 </p>
-
 <br/>
 
 ![Ferid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeridQarayev&show_icons=true&theme=tokyonight)
+
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=FeridQarayev&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
 ![Ferid's GitHub stats](https://streak-stats.demolab.com/?user=FeridQarayev&theme=tokyonight)
 
