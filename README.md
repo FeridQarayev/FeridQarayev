@@ -7,7 +7,7 @@
 
 - :mortar_board: I’m study **<a href="https://www.aztu.edu.az/az#/azp/main.do">AZTU</a>**
 
-- :e-mail: How to reach me **feridqarayev111@gmail.com**
+- :e-mail: How to reach me **feridqarayev11@gmail.com**
 
 - <img width="25" src="./img/emoji-icon-flat-03-00-animals-nature-animal-mammal-doberman-72dpi-forPersonalUseOnly.png"> I love **my dog :heart:**
 - <div>
@@ -22,44 +22,37 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </a> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+    <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,jquery,react,redux,styledcomponents,figma,git,github,postman,regex,cs,dotnet,nodejs,express,mongodb" /> -->
+    <p style="display:flex;gap:5px;flex-wrap:wrap;">
+    <img src="https://skillicons.dev/icons?i=html" title="html"/>
+    <img src="https://skillicons.dev/icons?i=css" title="css"/>
+    <img src="https://skillicons.dev/icons?i=js" title="js"/>
+    <img src="https://skillicons.dev/icons?i=ts" title="ts"/>
+    <img src="https://skillicons.dev/icons?i=sass" title="sass"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=jquery" title="jquery"/>
+    <img src="https://skillicons.dev/icons?i=react" title="react"/>
+    <img src="https://skillicons.dev/icons?i=redux" title="redux"/>
+    <img src="https://skillicons.dev/icons?i=styledcomponents" title="styledcomponents"/>
+    <img src="https://skillicons.dev/icons?i=figma" title="figma"/>
+    <img src="https://skillicons.dev/icons?i=git" title="git"/>
+    <img src="https://skillicons.dev/icons?i=github" title="github"/>
+    <img src="https://skillicons.dev/icons?i=postman" title="postman"/>
+    <img src="https://skillicons.dev/icons?i=regex" title="regex"/>
+    </p>
+    <p style="display:flex;gap:5px;flex-wrap:wrap;">
+    <img src="https://skillicons.dev/icons?i=cs" title="cs"/>
+    <img src="https://skillicons.dev/icons?i=dotnet" title="dotnet"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" title="nodejs"/>
+    <img src="https://skillicons.dev/icons?i=express" title="express"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" title="mongodb"/>
+    <img style="border-radius:10px" src="https://adaptivedge.com/wp-content/uploads/2018/10/SQL-Server-Logo.jpg" alt="mssql" height="50" title="sql server"/> 
+    </p>
 </p>
-<br/>
 
+<br/>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FeridQarayev&show_icons=true&locale=en&layout=compact" alt="FeridQarayev" />
 </p>
