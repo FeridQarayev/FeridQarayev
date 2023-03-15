@@ -17,8 +17,8 @@
   <br/>
 
 <h3 align="center">Connect with me:</h3>
-<p style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center">
-    <a href="https://www.instagram.com/qarayevferidd/" >
+<p align="center" style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center">
+    <a style="margin-right:10px" href="https://www.instagram.com/qarayevferidd/" >
         <img src="https://skillicons.dev/icons?i=instagram" title="instagram" height="60px" />
     </a>
     <a href="https://www.linkedin.com/in/farid-garayev-083b2b254/" target="blank">
@@ -59,6 +59,10 @@
 <br/>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FeridQarayev&show_icons=true&theme=tokyonight" alt="FeridQarayev Github stats" />
+</p>
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FeridQarayev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used languages" />
+</p>
+<p>
     <img src="https://streak-stats.demolab.com/?user=FeridQarayev&theme=tokyonight" alt="GitHub Streak" style="max-width: 100%;" />
 </p>
