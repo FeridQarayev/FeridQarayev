@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ferid</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+ <!-- ![visitor count](https://komarev.com/ghpvc/?username=FeridQarayev&color=0e75b6&style=flat) -->
+
 - :computer: I’m currently working on **ABC-Telecom**
 
 - 👨‍💻 I’m currently learning **ReactJs,NodeJs**
@@ -57,12 +59,8 @@
 </p>
 
 <br/>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FeridQarayev&show_icons=true&theme=tokyonight" alt="FeridQarayev Github stats" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FeridQarayev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used languages" />
-</p>
-<p>
-    <img src="https://streak-stats.demolab.com/?user=FeridQarayev&theme=tokyonight" alt="GitHub Streak" style="max-width: 100%;" />
-</p>
+
+![Ferid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeridQarayev&show_icons=true&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=FeridQarayev&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Ferid's GitHub stats](https://streak-stats.demolab.com/?user=FeridQarayev&theme=tokyonight)
+
