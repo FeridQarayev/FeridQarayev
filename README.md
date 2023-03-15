@@ -23,7 +23,7 @@
     <a style="margin-right:10px" href="https://www.instagram.com/qarayevferidd/" >
         <img src="https://skillicons.dev/icons?i=instagram" title="instagram" height="60px" />
     </a>
-    <a href="https://www.linkedin.com/in/farid-garayev-083b2b254/" target="blank">
+    <a href="https://www.linkedin.com/in/ferid-qarayev-083b2b254/" target="blank">
         <img src="https://skillicons.dev/icons?i=linkedin" title="linkedin" height="60px" />
     </a>
 </p>
@@ -64,4 +64,3 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=FeridQarayev&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ![Ferid's GitHub stats](https://streak-stats.demolab.com/?user=FeridQarayev&theme=tokyonight)
-
