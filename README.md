@@ -2,14 +2,20 @@
 <h3 align="center">Full Stack Developer</h3>
 
  <!-- ![visitor count](https://komarev.com/ghpvc/?username=FeridQarayev&color=0e75b6&style=flat) -->
+ ## 👨🏻‍💻 About Me:
+<img  src="./img/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - :computer: I’m currently working on **ABC-Telecom**
 
-- 👨‍💻 I’m currently learning **ReactJs,NodeJs**
+- 🌱 I’m currently learning `MERN Stack`
+
+- :briefcase: Open To Job Opportunities
 
 - :mortar_board: I’m study **<a href="https://www.aztu.edu.az/az#/azp/main.do">AZTU</a>**
 
 - :e-mail: How to reach me **feridqarayev11@gmail.com**
+
+- ⚡ Fun fact: I waste most of my time playing games
 
 - <img width="25" src="./img/emoji-icon-flat-03-00-animals-nature-animal-mammal-doberman-72dpi-forPersonalUseOnly.png"> I love **<a href="https://www.instagram.com/lindadoberman/">my dog :heart:</a>**
 - <div>
@@ -58,6 +64,8 @@
     </p>
 </p>
 <br/>
+
+# 📊 GitHub Stats:
 
 ![Ferid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeridQarayev&show_icons=true&theme=tokyonight)
 
