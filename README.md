@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
  <!-- ![visitor count](https://komarev.com/ghpvc/?username=FeridQarayev&color=0e75b6&style=flat) -->
- ## 👨🏻‍💻 About Me:
 <img  src="./img/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - :computer: I’m currently working on **ABC-Telecom**
