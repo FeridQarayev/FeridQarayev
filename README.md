@@ -28,7 +28,7 @@
     <a style="margin-right:10px" href="https://www.instagram.com/qarayevferidd/" >
         <img src="https://skillicons.dev/icons?i=instagram" title="instagram" height="60px" />
     </a>
-    <a href="https://www.linkedin.com/in/ferid-qarayev-083b2b254/" target="blank">
+    <a href="https://www.linkedin.com/in/feridqarayev/" target="blank">
         <img src="https://skillicons.dev/icons?i=linkedin" title="linkedin" height="60px" />
     </a>
 </p>
